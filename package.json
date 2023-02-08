@@ -1,5 +1,5 @@
 {
-  "name": "@npm-examples/github-actions",
+  "name": "github-test-actions",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
